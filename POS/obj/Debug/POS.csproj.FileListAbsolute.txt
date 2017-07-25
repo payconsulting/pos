@@ -1,0 +1,9 @@
+C:\Users\haile\Source\Repos\pos\POS\bin\Debug\POS.exe.config
+C:\Users\haile\Source\Repos\pos\POS\bin\Debug\POS.exe
+C:\Users\haile\Source\Repos\pos\POS\bin\Debug\POS.pdb
+C:\Users\haile\Source\Repos\pos\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\haile\Source\Repos\pos\POS\obj\Debug\POS.Form1.resources
+C:\Users\haile\Source\Repos\pos\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\haile\Source\Repos\pos\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\haile\Source\Repos\pos\POS\obj\Debug\POS.exe
+C:\Users\haile\Source\Repos\pos\POS\obj\Debug\POS.pdb
